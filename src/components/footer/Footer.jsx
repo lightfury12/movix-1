@@ -21,7 +21,7 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          <h1>  &#128522; <span> Powered by Arun Taak </span> &#128522; </h1><br/>
+          <h1>  &#128522; <span> Powered by Priya Sharma </span> &#128522; </h1><br/>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -30,17 +30,17 @@ const Footer = () => {
           pariatur.
         </div>
         <div className="socialIcons">
-          <a href="https://instagram.com/aruntaak36">
+          <a href="https://instagram.com/1itss__me">
             <span className="icon">
               <FaFacebookF />
             </span>
           </a>
-          <a href="https://instagram.com/__aru__xn__">
+          <a href="https://instagram.com/1itss__me">
             <span className="icon">
               <FaInstagram />
             </span>
           </a>
-          <a href="https://twitter.com/Aruntaak22">
+          <a href="https://instagram.com/1itss__me">
             <span className="icon">
               <FaTwitter />
             </span>

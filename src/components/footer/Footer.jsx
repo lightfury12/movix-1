@@ -30,7 +30,7 @@ const Footer = () => {
           pariatur.
         </div>
         <div className="socialIcons">
-          <a href="https://instagram.com/1itss__me>
+          <a href="https://instagram.com/1itss__me">
             <span className="icon">
               <FaFacebookF />
             </span>

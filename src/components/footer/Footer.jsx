@@ -21,7 +21,7 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          <h1>  &#128522; <span> Powered by LightFury メ </span> &#128522; </h1><br/>
+          <h1>  &#128522; <span> Powered by LightFury </span> &#128522; </h1><br/>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
